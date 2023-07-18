@@ -1,0 +1,349 @@
+{
+    "type": "GROUP",
+    "id": "1701:2661",
+    "name": "Group 708",
+    "x": -27513,
+    "y": -226,
+    "width": 751,
+    "height": 382,
+    "visible": true,
+    "locked": false,
+    "opacity": 1,
+    "blendMode": "PASS_THROUGH",
+    "isMask": true,
+    "rotation": 0,
+    "layoutAlign": "INHERIT",
+    "layoutGrow": 0,
+    "layoutPositioning": "AUTO",
+    "exportSettings": [],
+    "relativeTransform": [
+        [
+            1,
+            0,
+            -27513
+        ],
+        [
+            0,
+            1,
+            -226
+        ]
+    ],
+    "absoluteRenderBounds": null,
+    "effects": [],
+    "children": [
+        {
+            "type": "RECTANGLE",
+            "id": "1701:2659",
+            "name": "Rectangle 1289",
+            "x": -27513,
+            "y": -226,
+            "width": 751,
+            "height": 382,
+            "visible": true,
+            "locked": false,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "isMask": false,
+            "cornerRadius": 50,
+            "cornerSmoothing": 0,
+            "topLeftRadius": 50,
+            "topRightRadius": 50,
+            "bottomLeftRadius": 50,
+            "bottomRightRadius": 50,
+            "fillStyleId": "",
+            "strokeStyleId": "",
+            "strokeWeight": 1,
+            "strokeTopWeight": 1,
+            "strokeBottomWeight": 1,
+            "strokeLeftWeight": 1,
+            "strokeRightWeight": 1,
+            "strokeJoin": "MITER",
+            "strokeAlign": "INSIDE",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [
+                {
+                    "format": "PNG",
+                    "suffix": "",
+                    "contentsOnly": true,
+                    "constraint": {
+                        "type": "SCALE",
+                        "value": 1
+                    }
+                }
+            ],
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    -27513
+                ],
+                [
+                    0,
+                    1,
+                    -226
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": -27517,
+                "y": -226,
+                "width": 759,
+                "height": 390
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M0 50C0 22.3858 22.3858 0 50 0L701 0C728.614 0 751 22.3858 751 50L751 332C751 359.614 728.614 382 701 382L50 382C22.3858 382 0 359.614 0 332L0 50Z"
+                }
+            ],
+            "fills": [
+                {
+                    "type": "SOLID",
+                    "visible": true,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                    }
+                }
+            ],
+            "strokes": [
+                {
+                    "type": "SOLID",
+                    "visible": true,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0
+                    }
+                }
+            ],
+            "effects": [
+                {
+                    "type": "DROP_SHADOW",
+                    "color": {
+                        "r": 0,
+                        "g": 0,
+                        "b": 0,
+                        "a": 0.25
+                    },
+                    "offset": {
+                        "x": 0,
+                        "y": 4
+                    },
+                    "radius": 4,
+                    "spread": 0,
+                    "visible": true,
+                    "blendMode": "NORMAL",
+                    "showShadowBehindNode": false
+                }
+            ]
+        },
+        {
+            "type": "TEXT",
+            "id": "1701:2660",
+            "name": "SAVE",
+            "x": -27233,
+            "y": -82,
+            "width": 218,
+            "height": 98,
+            "visible": true,
+            "locked": false,
+            "rangeAllFontNames": [
+                [
+                    {
+                        "family": "Montserrat",
+                        "style": "SemiBold"
+                    }
+                ],
+                [
+                    {
+                        "family": "Montserrat",
+                        "style": "SemiBold"
+                    }
+                ],
+                [
+                    {
+                        "family": "Montserrat",
+                        "style": "SemiBold"
+                    }
+                ],
+                [
+                    {
+                        "family": "Montserrat",
+                        "style": "SemiBold"
+                    }
+                ]
+            ],
+            "rangeFontSize": [
+                80,
+                80,
+                80,
+                80
+            ],
+            "rangeFills": [
+                [
+                    {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1
+                        }
+                    }
+                ],
+                [
+                    {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1
+                        }
+                    }
+                ],
+                [
+                    {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1
+                        }
+                    }
+                ],
+                [
+                    {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 1,
+                            "g": 1,
+                            "b": 1
+                        }
+                    }
+                ]
+            ],
+            "rangeLineHeight": [
+                {
+                    "unit": "AUTO"
+                },
+                {
+                    "unit": "AUTO"
+                },
+                {
+                    "unit": "AUTO"
+                },
+                {
+                    "unit": "AUTO"
+                }
+            ],
+            "opacity": 1,
+            "blendMode": "PASS_THROUGH",
+            "isMask": false,
+            "fillStyleId": "",
+            "strokeStyleId": "",
+            "strokeWeight": 1,
+            "strokeJoin": "MITER",
+            "strokeAlign": "OUTSIDE",
+            "dashPattern": [],
+            "strokeCap": "NONE",
+            "strokeMiterLimit": 4,
+            "rotation": 0,
+            "layoutAlign": "INHERIT",
+            "layoutGrow": 0,
+            "layoutPositioning": "AUTO",
+            "constraints": {
+                "horizontal": "MIN",
+                "vertical": "MIN"
+            },
+            "exportSettings": [],
+            "characters": "SAVE",
+            "textAlignHorizontal": "CENTER",
+            "textAlignVertical": "CENTER",
+            "textAutoResize": "HEIGHT",
+            "paragraphIndent": 0,
+            "paragraphSpacing": 0,
+            "autoRename": true,
+            "fontSize": 80,
+            "fontName": {
+                "family": "Montserrat",
+                "style": "SemiBold"
+            },
+            "textCase": "ORIGINAL",
+            "textDecoration": "NONE",
+            "letterSpacing": {
+                "unit": "PIXELS",
+                "value": 0
+            },
+            "lineHeight": {
+                "unit": "AUTO"
+            },
+            "textStyleId": "",
+            "hyperlink": null,
+            "relativeTransform": [
+                [
+                    1,
+                    0,
+                    -27233
+                ],
+                [
+                    0,
+                    1,
+                    -82
+                ]
+            ],
+            "absoluteRenderBounds": {
+                "x": -27230.18359375,
+                "y": -60.80000305175781,
+                "width": 211.09375,
+                "height": 57.600006103515625
+            },
+            "fillGeometry": [
+                {
+                    "windingRule": "NONZERO",
+                    "data": "M24.8956 78.8C20.5223 78.8 16.3356 78.1867 12.3356 76.96C8.33563 75.68 5.16229 74.0533 2.81562 72.08L6.41563 64C8.65563 65.76 11.429 67.2267 14.7356 68.4C18.0423 69.5733 21.429 70.16 24.8956 70.16C27.829 70.16 30.2023 69.84 32.0156 69.2C33.829 68.56 35.1623 67.7067 36.0156 66.64C36.869 65.52 37.2956 64.2667 37.2956 62.88C37.2956 61.1733 36.6823 59.8133 35.4556 58.8C34.229 57.7333 32.629 56.9067 30.6556 56.32C28.7356 55.68 26.5756 55.0933 24.1756 54.56C21.829 54.0267 19.4556 53.4133 17.0556 52.72C14.709 51.9733 12.549 51.04 10.5756 49.92C8.65563 48.7467 7.08229 47.2 5.85563 45.28C4.62896 43.36 4.01562 40.9067 4.01562 37.92C4.01562 34.88 4.81563 32.1067 6.41563 29.6C8.06896 27.04 10.549 25.0133 13.8556 23.52C17.2156 21.9733 21.4556 21.2 26.5756 21.2C29.9356 21.2 33.269 21.6267 36.5756 22.48C39.8823 23.3333 42.7623 24.56 45.2156 26.16L41.9356 34.24C39.429 32.7467 36.8423 31.6533 34.1756 30.96C31.509 30.2133 28.949 29.84 26.4956 29.84C23.6156 29.84 21.269 30.1867 19.4556 30.88C17.6956 31.5733 16.389 32.48 15.5356 33.6C14.7356 34.72 14.3356 36 14.3356 37.44C14.3356 39.1467 14.9223 40.5333 16.0956 41.6C17.3223 42.6133 18.8956 43.4133 20.8156 44C22.789 44.5867 24.9756 45.1733 27.3756 45.76C29.7756 46.2933 32.149 46.9067 34.4956 47.6C36.8956 48.2933 39.0556 49.2 40.9756 50.32C42.949 51.44 44.5223 52.96 45.6956 54.88C46.9223 56.8 47.5356 59.2267 47.5356 62.16C47.5356 65.1467 46.709 67.92 45.0556 70.48C43.4556 72.9867 40.9756 75.0133 37.6156 76.56C34.2556 78.0533 30.0156 78.8 24.8956 78.8ZM49.9281 78L75.1281 22L85.3681 22L110.648 78L99.7681 78L78.0881 27.52L82.2481 27.52L60.6481 78L49.9281 78ZM61.5281 65.04L64.3281 56.88L94.5681 56.88L97.3681 65.04L61.5281 65.04ZM131.361 78L106.881 22L118.161 22L140.001 72.64L133.521 72.64L155.601 22L166.001 22L141.601 78L131.361 78ZM181.511 45.28L209.351 45.28L209.351 53.84L181.511 53.84L181.511 45.28ZM182.311 69.28L213.911 69.28L213.911 78L171.911 78L171.911 22L212.791 22L212.791 30.72L182.311 30.72L182.311 69.28Z"
+                }
+            ],
+            "fills": [
+                {
+                    "type": "SOLID",
+                    "visible": true,
+                    "opacity": 1,
+                    "blendMode": "NORMAL",
+                    "color": {
+                        "r": 1,
+                        "g": 1,
+                        "b": 1
+                    }
+                }
+            ],
+            "strokes": [],
+            "effects": []
+        }
+    ]
+}

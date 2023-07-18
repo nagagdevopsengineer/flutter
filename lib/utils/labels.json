@@ -1,0 +1,28 @@
+{
+    "login" : "Login",
+    "restaurantoffers" : "Restaurant Offers",
+    "events" : "Events",
+    "home": "Home",
+    "profile" : "Profile",
+    "restaurants" : "Restaurants",
+    "contactus" : "Contact Us",
+    "About Us" : "About Us",
+    "logout" : "Logout",
+    "sendotp" : "Send OTP",
+    "verifyotp" : "Verify OTP",
+    "mobilenumber" : "Mobile Number",
+    "Didn't receive OTP?" : "Didn't receive OTP?",
+    "OTP" : "OTP",
+    "showthecodetogp" : "Show the code to GP Partner",
+    "verificationrequired" : "Verification Required",
+    "otpwillbesent" : "Otp will be sent to your Registered Number",
+    "preferences" : "Preferences :",
+    "emailid" : "Email Id :",
+    "phonenumber" : "Phone Number :",
+    "dob" : "DOB :",
+    "address" : "Address :",
+    "viewmore" : "View More",
+    "Hide" : "Hide"
+
+
+}
